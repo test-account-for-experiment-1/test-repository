@@ -1,4 +1,6 @@
-
+.gradle
+.idea
+/build/
 # .v4p backup files
 *~.xml
 
